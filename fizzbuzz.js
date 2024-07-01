@@ -13,12 +13,8 @@ function fizzbuzz() {
         } else {
             console.log(n);
         }
-        
         }
     }
 
-    // Put your code here...
-
-    
 // Now we run the main function...
 fizzbuzz();
